@@ -1,0 +1,5 @@
+/* Only the three requested section backgrounds. */
+.reviews{background:linear-gradient(rgba(7,7,7,.66),rgba(7,7,7,.74)),url('../images/reviews-background.jpg') center center/cover no-repeat}
+.reader{background:linear-gradient(rgba(7,7,7,.65),rgba(7,7,7,.74)),url('../images/readerclub-background.jpg') center center/cover no-repeat}
+.contact{background:linear-gradient(rgba(7,7,7,.65),rgba(7,7,7,.70)),url('../images/contact-background.jpg') center center/cover no-repeat}
+@media(max-width:760px){.reviews{background-position:55% center}.reader{background-position:31% center}.contact{background-position:32% center}}

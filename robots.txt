@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jmecclestone.com/sitemap.xml
